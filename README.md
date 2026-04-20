@@ -40,7 +40,7 @@ The canonical implementation lives in [`rust/`](./rust), and the current source 
 
 ## Current repository shape
 
-- **`rust/`** — canonical Rust workspace and the `claw` CLI binary
+- **`rust/`** — canonical Rust workspace and the `claw` CLI binary 上班刚刚
 - **`USAGE.md`** — task-oriented usage guide for the current product surface
 - **`PARITY.md`** — Rust-port parity status and migration notes
 - **`ROADMAP.md`** — active roadmap and cleanup backlog
